@@ -6,5 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 		sout();
+		System.out.println("hello java");
     }
 }
