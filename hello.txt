@@ -1,6 +1,10 @@
 hello world。
 hello world。
+<<<<<<< HEAD
 hello world。hello world。hello world。
 哈哈你好，
 
 又加了一个
+=======
+hello world。hello world。hello world。
+>>>>>>> parent of f490e98... 提交一个新的文件和修改文件
